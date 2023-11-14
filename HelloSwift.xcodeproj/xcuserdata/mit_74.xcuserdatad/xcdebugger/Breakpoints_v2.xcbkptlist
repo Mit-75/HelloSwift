@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "847056B4-FEEE-495F-89D1-34A132160D29"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D985217-F72F-46AF-8BB9-0C4D4965B16D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelloSwift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4D985217-F72F-46AF-8BB9-0C4D4965B16D - 19b695b4ea207029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloSwift.ViewController.buttonTup(Any) -&gt; ()"
+                  moduleName = "HelloSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mit_74/Desktop/SwiftBook%202.39/HelloSwift/HelloSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4D985217-F72F-46AF-8BB9-0C4D4965B16D - 4a022dbf8051277c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelloSwift.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "HelloSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mit_74/Desktop/SwiftBook%202.39/HelloSwift/HelloSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
